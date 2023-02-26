@@ -1,0 +1,10 @@
+{
+  "files": ["json", "xml", "txt"], 
+  "technologies": ["HTTP", "SQL", "Python", "Bash"],
+  "SCM": "GIT",
+  "databases": ["Postgres", "Redis"],
+  "metodology": "Scrum"
+}
+  
+  
+
