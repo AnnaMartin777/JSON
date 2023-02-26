@@ -1,1 +1,7 @@
-
+{
+  "title": "Programm crashed while loading a file",
+  "description": "The programm crashed on startup while loading the file /etc/my_programm/settings.json",
+  "reporter": "Anna Martin",
+  "priority": "High",
+  "date": "Feb 26, 2023"
+}
